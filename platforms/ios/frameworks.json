@@ -1,0 +1,7 @@
+{
+    "libicucore.A.dylib": 1,
+    "MediaPlayer.framework": 1,
+    "SystemConfiguration.framework": 1,
+    "AudioToolbox.framework": 1,
+    "CoreAudio.framework": 1
+}
